@@ -1,3 +1,4 @@
+define(`DOC', `<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">')
 define(`COMMONTITLE', `Pyrite Development Team')
 define(`HEADER', `
 	<h1>COMMONTITLE - TITLE</h1>

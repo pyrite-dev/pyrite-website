@@ -5,4 +5,4 @@
 <!-- CONTENT -->
       Write Content(HTML 4.01) here
 <!-- END CONTENT -->
-<?php include '/include/footer.php'; ?>
+<?php include 'include/footer.php'; ?>

@@ -3,6 +3,7 @@
     include 'include/header.php';
 ?>
 <!-- CONTENT -->
+      <h1>Welcome to Pyrite</h1>
       <h2 id="about">About Us</h2>
       <p>Pyrite is a passionate technology development team building creative software and systems.</p>
 

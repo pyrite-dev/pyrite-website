@@ -11,7 +11,7 @@
 <p>It emphasizes giving users full control over the details of their world.</p>
 <h2>Document</h2>
 <p>GoldFish documentation is available <a href="/goldfish-doc">here</a>.</p>
-<p><a href="https://github.com/pyrite-dev/goldfish/blob/master/BUILDING.md">Please refer to this for the build instructions.</a></p>
+<p><a href="https://pyrite.nishi.boats/goldfish-doc/md_BUILDING.html">Please refer to this for the build instructions.</a></p>
 <h2>Contributors</h2>
 <a href="https://github.com/pyrite-dev/goldfish/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pyrite-dev/goldfish" />

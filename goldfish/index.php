@@ -1,4 +1,4 @@
-<p?php 
+<?php 
     $title = "GoldFish";
     include '../include/header.php';
 ?>

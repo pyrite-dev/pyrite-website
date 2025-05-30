@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <link rel="stylesheet" type="text/css" href="/src/css/style.css">
-  <title><?php echo isset($title) ? $title : 'Title is Not Found'; ?> - PyriteDev</title>
+  <title><?php echo isset($title) ? $title : 'Title is Not Found'; ?> - Pyrite Development Team</title>
 </head>
 <body>
 <div id="container">

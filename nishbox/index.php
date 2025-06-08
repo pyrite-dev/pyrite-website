@@ -19,7 +19,7 @@ NishBox is a 3D sandbox game based on <a href="/goldfish">GoldFish engine</a>.
 <ul>
 	<li>
 		For Windows 32-bit, you need <i>at least</i> NT 3.51 to work, but official builds require NT 4.<br>
-		To build executable that works on NT 3.51, you need to get <a href="/msys1">MSYS <b>1</b></i> setup.
+		To build executable that works on NT 3.51, you need to get <a href="/msys1">MSYS <b>1</b></a> setup.
 	</li>
 	<li>For Windows 64-bit, you need 7 (not sure about 64-bit XP).</li>
 </ul>

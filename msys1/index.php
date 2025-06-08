@@ -26,7 +26,7 @@ Fourth (optional), if you want release build, modify Makefile and change
 to whatever you want.
 </p>
 <p>
-Finally, copy <address>src/icon.ico</address> to top directory of nishbox, and simply run:
+Finally, copy <code>src/icon.ico</code> to top directory of nishbox, and simply run:
 <pre>
 	make
 </pre>

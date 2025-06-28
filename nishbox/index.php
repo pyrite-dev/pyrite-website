@@ -11,9 +11,8 @@ NishBox is a 3D sandbox game based on <a href="/goldfish">GoldFish engine</a>.
 </p>
 <h2>Install</h2>
 <ul>
-    <li>Windows 32-bit: <a href="https://j.nishi.boats/job/NishBox/job/master/lastSuccessfulBuild/artifact/install32.exe">install32.exe</a></li>
-    <li>Windows 64-bit: <a href="https://j.nishi.boats/job/NishBox/job/master/lastSuccessfulBuild/artifact/install64.exe">install64.exe</a></li>
-    <li>Linux 64-bit: <a href="https://j.nishi.boats/job/NishBox/job/master/lastSuccessfulBuild/artifact/nishbox64.AppImage">nishbox64.AppImage</a>
+    <li>Windows 32-bit: <a href="https://j.nishi.boats/job/Package/job/master/lastSuccessfulBuild/artifact/install32.exe">install32.exe</a></li>
+    <li>Windows 64-bit: <a href="https://j.nishi.boats/job/Package/job/master/lastSuccessfulBuild/artifact/install64.exe">install64.exe</a></li>
 </ul>
 <h2>Requirements (probably)</h2>
 <ul>

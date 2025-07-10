@@ -12,5 +12,13 @@
         <li><a href="/nishbox/">NishBox</a></li>
         <li><a href="/goldfish/">GoldFish Engine</a></li>
       </ul>
+
+      <h2 id="contact">Contact</h2>
+      <ul>
+        <li><a href="https://discord.gg/Es3hveMAQa">Discord</a></li>
+        <li><a href="https://mods.nishi.boats/">Forum</a></li>
+        <li><a href="xmpp:nishbox@conference.nishi.boats?join">XMPP</a></li>
+        <li>IRC: irc.nishi.boats #pyrite</li>
+      </ul>
 <!-- END CONTENT -->
 <?php include 'include/footer.php'; ?>

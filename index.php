@@ -9,8 +9,7 @@
 
       <h2 id="projects">Projects</h2>
       <ul>
-        <li><a href="/nishbox/">NishBox</a></li>
-        <li><a href="/goldfish/">GoldFish Engine</a></li>
+        <li><a href="https://milsko.nishi.boats">Milsko</a></li>
       </ul>
 
       <h2 id="contact">Contact</h2>

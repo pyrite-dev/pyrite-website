@@ -19,8 +19,7 @@
     <li><a href="/">Home</a></li>
     <li><a href="/#about">About</a></li>
     <li><a href="/#projects">Projects</a></li>
-    <li><a href="/nishbox">NishBox</a></li>
-    <li><a href="/goldfish">GoldFish</a></li>
+    <li><a href="https://milsko.nishi.boats">Milsko</a></li>
   </ul>
 </div>
 <div id="main">
